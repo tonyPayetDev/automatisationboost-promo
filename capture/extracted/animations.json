@@ -1,0 +1,407 @@
+{
+  "summary": {
+    "webAnimations": 17,
+    "cssDeclarations": 67,
+    "scrollTargets": 36,
+    "cdpAnimations": 59,
+    "canvases": 0
+  },
+  "namedAnimations": [
+    "float",
+    "bounce",
+    "popIn"
+  ],
+  "scrollTriggeredElements": 36,
+  "representativeAnimations": [
+    {
+      "type": "CSSTransition",
+      "playState": "running",
+      "animationName": null,
+      "targetSelector": "div.testi-card.fade-in.visible",
+      "targetRect": {
+        "x": 434,
+        "y": -4351.1875,
+        "width": 334.65625,
+        "height": 399.796875,
+        "top": -4351.1875,
+        "right": 768.65625,
+        "bottom": -3951.390625,
+        "left": 434
+      },
+      "keyframes": [
+        {
+          "offset": 0,
+          "easing": "linear",
+          "composite": "auto",
+          "opacity": "0",
+          "computedOffset": 0
+        },
+        {
+          "offset": 1,
+          "easing": "linear",
+          "composite": "auto",
+          "opacity": "1",
+          "computedOffset": 1
+        }
+      ],
+      "timing": {
+        "duration": 600,
+        "delay": 0,
+        "iterations": 1,
+        "easing": "ease",
+        "direction": "normal"
+      }
+    },
+    {
+      "type": "CSSTransition",
+      "playState": "running",
+      "animationName": null,
+      "targetSelector": "div.testi-card.fade-in.visible",
+      "targetRect": {
+        "x": 434,
+        "y": -4351.1875,
+        "width": 334.65625,
+        "height": 399.796875,
+        "top": -4351.1875,
+        "right": 768.65625,
+        "bottom": -3951.390625,
+        "left": 434
+      },
+      "keyframes": [
+        {
+          "offset": 0,
+          "easing": "linear",
+          "composite": "auto",
+          "transform": "translateY(24px)",
+          "computedOffset": 0
+        },
+        {
+          "offset": 1,
+          "easing": "linear",
+          "composite": "auto",
+          "transform": "translateY(0px)",
+          "computedOffset": 1
+        }
+      ],
+      "timing": {
+        "duration": 600,
+        "delay": 0,
+        "iterations": 1,
+        "easing": "ease",
+        "direction": "normal"
+      }
+    },
+    {
+      "type": "CSSTransition",
+      "playState": "running",
+      "animationName": null,
+      "targetSelector": "div.testi-card.fade-in.fade-in-delay-1",
+      "targetRect": {
+        "x": 792.65625,
+        "y": -4351.1875,
+        "width": 334.671875,
+        "height": 399.796875,
+        "top": -4351.1875,
+        "right": 1127.328125,
+        "bottom": -3951.390625,
+        "left": 792.65625
+      },
+      "keyframes": [
+        {
+          "offset": 0,
+          "easing": "linear",
+          "composite": "auto",
+          "opacity": "0",
+          "computedOffset": 0
+        },
+        {
+          "offset": 1,
+          "easing": "linear",
+          "composite": "auto",
+          "opacity": "1",
+          "computedOffset": 1
+        }
+      ],
+      "timing": {
+        "duration": 600,
+        "delay": 100,
+        "iterations": 1,
+        "easing": "ease",
+        "direction": "normal"
+      }
+    },
+    {
+      "type": "CSSTransition",
+      "playState": "running",
+      "animationName": null,
+      "targetSelector": "div.testi-card.fade-in.fade-in-delay-1",
+      "targetRect": {
+        "x": 792.65625,
+        "y": -4351.1875,
+        "width": 334.671875,
+        "height": 399.796875,
+        "top": -4351.1875,
+        "right": 1127.328125,
+        "bottom": -3951.390625,
+        "left": 792.65625
+      },
+      "keyframes": [
+        {
+          "offset": 0,
+          "easing": "linear",
+          "composite": "auto",
+          "transform": "translateY(24px)",
+          "computedOffset": 0
+        },
+        {
+          "offset": 1,
+          "easing": "linear",
+          "composite": "auto",
+          "transform": "translateY(0px)",
+          "computedOffset": 1
+        }
+      ],
+      "timing": {
+        "duration": 600,
+        "delay": 100,
+        "iterations": 1,
+        "easing": "ease",
+        "direction": "normal"
+      }
+    },
+    {
+      "type": "CSSTransition",
+      "playState": "running",
+      "animationName": null,
+      "targetSelector": "div.testi-card.fade-in.fade-in-delay-2",
+      "targetRect": {
+        "x": 1151.328125,
+        "y": -4351.1875,
+        "width": 334.65625,
+        "height": 399.796875,
+        "top": -4351.1875,
+        "right": 1485.984375,
+        "bottom": -3951.390625,
+        "left": 1151.328125
+      },
+      "keyframes": [
+        {
+          "offset": 0,
+          "easing": "linear",
+          "composite": "auto",
+          "opacity": "0",
+          "computedOffset": 0
+        },
+        {
+          "offset": 1,
+          "easing": "linear",
+          "composite": "auto",
+          "opacity": "1",
+          "computedOffset": 1
+        }
+      ],
+      "timing": {
+        "duration": 600,
+        "delay": 200,
+        "iterations": 1,
+        "easing": "ease",
+        "direction": "normal"
+      }
+    },
+    {
+      "type": "CSSTransition",
+      "playState": "running",
+      "animationName": null,
+      "targetSelector": "div.testi-card.fade-in.fade-in-delay-2",
+      "targetRect": {
+        "x": 1151.328125,
+        "y": -4351.1875,
+        "width": 334.65625,
+        "height": 399.796875,
+        "top": -4351.1875,
+        "right": 1485.984375,
+        "bottom": -3951.390625,
+        "left": 1151.328125
+      },
+      "keyframes": [
+        {
+          "offset": 0,
+          "easing": "linear",
+          "composite": "auto",
+          "transform": "translateY(24px)",
+          "computedOffset": 0
+        },
+        {
+          "offset": 1,
+          "easing": "linear",
+          "composite": "auto",
+          "transform": "translateY(0px)",
+          "computedOffset": 1
+        }
+      ],
+      "timing": {
+        "duration": 600,
+        "delay": 200,
+        "iterations": 1,
+        "easing": "ease",
+        "direction": "normal"
+      }
+    },
+    {
+      "type": "CSSTransition",
+      "playState": "running",
+      "animationName": null,
+      "targetSelector": "div.testi-card.fade-in.visible",
+      "targetRect": {
+        "x": 434,
+        "y": -3927.390625,
+        "width": 334.65625,
+        "height": 400.34375,
+        "top": -3927.390625,
+        "right": 768.65625,
+        "bottom": -3527.046875,
+        "left": 434
+      },
+      "keyframes": [
+        {
+          "offset": 0,
+          "easing": "linear",
+          "composite": "auto",
+          "opacity": "0",
+          "computedOffset": 0
+        },
+        {
+          "offset": 1,
+          "easing": "linear",
+          "composite": "auto",
+          "opacity": "1",
+          "computedOffset": 1
+        }
+      ],
+      "timing": {
+        "duration": 600,
+        "delay": 0,
+        "iterations": 1,
+        "easing": "ease",
+        "direction": "normal"
+      }
+    },
+    {
+      "type": "CSSTransition",
+      "playState": "running",
+      "animationName": null,
+      "targetSelector": "div.testi-card.fade-in.visible",
+      "targetRect": {
+        "x": 434,
+        "y": -3927.390625,
+        "width": 334.65625,
+        "height": 400.34375,
+        "top": -3927.390625,
+        "right": 768.65625,
+        "bottom": -3527.046875,
+        "left": 434
+      },
+      "keyframes": [
+        {
+          "offset": 0,
+          "easing": "linear",
+          "composite": "auto",
+          "transform": "translateY(24px)",
+          "computedOffset": 0
+        },
+        {
+          "offset": 1,
+          "easing": "linear",
+          "composite": "auto",
+          "transform": "translateY(0px)",
+          "computedOffset": 1
+        }
+      ],
+      "timing": {
+        "duration": 600,
+        "delay": 0,
+        "iterations": 1,
+        "easing": "ease",
+        "direction": "normal"
+      }
+    },
+    {
+      "type": "CSSTransition",
+      "playState": "running",
+      "animationName": null,
+      "targetSelector": "div.testi-card.fade-in.fade-in-delay-1",
+      "targetRect": {
+        "x": 792.65625,
+        "y": -3927.390625,
+        "width": 334.671875,
+        "height": 400.34375,
+        "top": -3927.390625,
+        "right": 1127.328125,
+        "bottom": -3527.046875,
+        "left": 792.65625
+      },
+      "keyframes": [
+        {
+          "offset": 0,
+          "easing": "linear",
+          "composite": "auto",
+          "opacity": "0",
+          "computedOffset": 0
+        },
+        {
+          "offset": 1,
+          "easing": "linear",
+          "composite": "auto",
+          "opacity": "1",
+          "computedOffset": 1
+        }
+      ],
+      "timing": {
+        "duration": 600,
+        "delay": 100,
+        "iterations": 1,
+        "easing": "ease",
+        "direction": "normal"
+      }
+    },
+    {
+      "type": "CSSTransition",
+      "playState": "running",
+      "animationName": null,
+      "targetSelector": "div.testi-card.fade-in.fade-in-delay-1",
+      "targetRect": {
+        "x": 792.65625,
+        "y": -3927.390625,
+        "width": 334.671875,
+        "height": 400.34375,
+        "top": -3927.390625,
+        "right": 1127.328125,
+        "bottom": -3527.046875,
+        "left": 792.65625
+      },
+      "keyframes": [
+        {
+          "offset": 0,
+          "easing": "linear",
+          "composite": "auto",
+          "transform": "translateY(24px)",
+          "computedOffset": 0
+        },
+        {
+          "offset": 1,
+          "easing": "linear",
+          "composite": "auto",
+          "transform": "translateY(0px)",
+          "computedOffset": 1
+        }
+      ],
+      "timing": {
+        "duration": 600,
+        "delay": 100,
+        "iterations": 1,
+        "easing": "ease",
+        "direction": "normal"
+      }
+    }
+  ]
+}
